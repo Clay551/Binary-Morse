@@ -9,3 +9,5 @@ python3 main.py
 A tool for creating binary code and Translator binary code
 
 making Morse code and Translator Morse code.
+
+#### Discord : Asylum
