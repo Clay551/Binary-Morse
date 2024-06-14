@@ -1,1 +1,139 @@
-import base64;exec(base64.b64decode(bytes('aW1wb3J0IGJhc2U2NDtleGVjKGJhc2U2NC5iNjRkZWNvZGUoYnl0ZXMoJ2FXMXdiM0owSUdKaGMyVTJORHRsZUdWaktHSmhjMlUyTkM1aU5qUmtaV052WkdVb1lubDBaWE1vSjFwdVNuWmlVMEozWlZoT01HVlhlR3hKUjJ4MFkwYzVlV1JEUWtSaU1uaDJZMjVOYzBsRlRuWmlSemw1V1ZoU2JFTnRXbmxpTWpCbldUSTVjMkl6U21oaVYwVm5ZVmN4ZDJJelNqQkpSVnAyWTIxVloweERRbkJpYld3d1EyMXNkR05IT1hsa1EwSjNaVmRhY0ZveWVHeGtRWEJ3WWxoQ2RtTnVVV2RaTWpsellqTkthR0pYUlV0aFZ6RjNZak5LTUVsSVNteERiV3gwWTBjNWVXUkRRblpqZDNCdFkyMDVkRWxJVW5oYVJ6Qm5ZVmN4ZDJJelNqQkpTRko0V2tjd1owTnRiSFJqUnpsNVpFTkNNR0ZYTVd4SlFYQk9WREZLVkZKV09VUlVNRkpHV0RCU1NsRXhVV2RRVTBJM1NqQkZiazlwWTNWTVUyTnpTVU5rUTBwNmIyNU1VelIxVEdsamMwTnBRV2RKUTBGblNVTkJaMGxEUVdkSlEwRm5TVU5CWjBsRFFXZEtNRTF1VDJsamRFeHBNSFZLZVhkblNqQlJiazlwWTNSTWFUUnVURU5CYmxKVFl6WktlVFJ1VEVGdlowbERRV2RKUTBGblNVTkJaMGxEUVdkSlEwRm5TVU5CWjBsRFpFZEtlbTl1VEdrMGRFeHBZM05KUTJSSVNucHZia3hUTUhWS2VYZG5TakJuYms5cFkzVk1hVFIxU25sM1MwbERRV2RKUTBGblNVTkJaMGxEUVdkSlEwRm5TVU5CWjBsRFFXNVRVMk0yU25rMGRVcDVkMmRLTUc5dVQybGpkVXhUTUhSS2VYZG5TakJ6Yms5cFkzUk1hVEJ1VEVGdlowbERRV2RKUTBGblNVTkJaMGxEUVdkSlEwRm5TVU5CWjBsRFpFMUtlbTl1VEdrd2RVeHBZM05KUTJST1NucHZia3hUTUc1TVEwRnVWR2xqTmtwNU1IVktlWGRMU1VOQlowbERRV2RKUTBGblNVTkJaMGxEUVdkSlEwRm5TVU5CYmxSNVl6WktlVEIwVEZOamMwbERaRkZLZW05dVRHa3dkRXhwWTNOSlEyUlNTbnB2Ymt4VE1IVk1VMk56UTJsQlowbERRV2RKUTBGblNVTkJaMGxEUVdkSlEwRm5TVU5CWjBveFNXNVBhV04xVEZNMGJreERRVzVWZVdNMlNuazBkVXhwWTNOSlEyUlZTbnB2Ymt4VFkzTkRhVUZuU1VOQlowbERRV2RKUTBGblNVTkJaMGxEUVdkSlEwRm5TakZWYms5cFkzVk1hVEJ1VEVOQmJsWnBZelpLZVRSMVRHa3dia3hEUVc1V2VXTTJTbmswZEV4VFkzTkRhVUZuU1VOQlowbERRV2RKUTBGblNVTkJaMGxEUVdkSlEwRm5TakZuYms5cFkzUk1hVFIwU25sM1owb3hhMjVQYVdOMFRHa3dkRXA1ZDJkS01XOXVUMmxqZEV4VE5IVktlWGRMU1VOQlowbERRV2RKUTBGblNVTkJaMGxEUVdkSlEwRm5TVU5CYmsxVFl6WktlVFIwVEZNd2RFcDVkMmRLZWtsdVQybGpkVXhwTUhSTVUyTnpTVU5qZWtwNmIyNU1hVFIxVEZNd2JreEJiMmRKUTBGblNVTkJaMGxEUVdkSlEwRm5TVU5CWjBsRFFXZEpRMk13U25wdmJreHBOSFZNYVRCdVRFTkJiazVUWXpaS2VUUjFUR2swZFVwNWQyZEtlbGx1VDJsamRFeHBOSFZNYVdOelEybEJaMGxEUVdkSlEwRm5TVU5CWjBsRFFXZEpRMEZuU1VOQlowcDZZMjVQYVdOMFRGTTBkVXhwWTNOSlEyTTBTbnB2Ymt4VE1IUk1hVFJ1VEVOQmJrOVRZelpLZVRCMFRGTXdkVXA1ZDB0RGFVRm5TVU5CWjBsRFFXZEpRMEZuU1VOQlowbERRV2RKUTBGblNucEJiazlwWTNSTVV6QjBURk5qYzBsRFkzTkpRMk0yU25rd2RFeHBOSFJNVTJOelNVTmpkVXA2YjI1TWFUQjFURk0wZEVwNWQwdEpRMEZuU1VOQlowbERRV2RKUTBGblNVTkJaMGxEUVdkSlEwRnVVSGxqTmtwNU5IVk1VekIxVEdsamMwbERZM1pLZW05dVRGTTBkVXhUTkc1TVEwRnVURk5qTmtwNU1IVk1hVFIxVEZOamMwTnBRV2RKUTBGblNVTkJaMGxEUVdkSlEwRm5TVU5CWjBsRFFXZEtlV2R1VDJsamRFeHBNSFJNYVdOelNVTmpjRXA2YjI1TVV6UjBURk0wZEVvek1FdFZSa3BHVWpFNVRsRldVa1JUUTBFNVNVTktZbGxUTVRaTlF6QTFURVF3Y1ZoNVdtVktVMUZxVVVORk9GQnBTV2xLTWtJcldGTkpTMUZyYkU5UlZrcGFXREZDVTFKVlpHWlVWVVpWVVRCbloxQlRRV2xYTWtWMFpXcEpkRTlUZHpsTGJEaHRXR2xWYTBrd1FXaFFSRFJwU1dsa1oyWnNNR2xEYXpGUVZXeE9SbGd4UWxOU1ZXUm1WRlZHVlZFd1oyZFFVMEZwVjNsM09VdHNPRzFZYVZWclNUQkJhRkJFTkdsSmFXUm5abXd3YVVObmIwdGFSMVp0U1VkV2RWZ3pVblpZTWpGMlkyNU9iRXRJVW14bFNGRndUMmR2WjBsRFFXZFpNbXgzWVVkV2VVbEVNR2RKYVVsTFNVTkJaMGxIV25aamFVSnpXbGhTTUZwWVNXZGhWelJuWkVkV05HUkViMHRKUTBGblNVTkJaMGxEUW5CYWFVSnpXbGhTTUZwWVNXZEpWREJuU1dsQmFVOW5iMmRKUTBGblNVTkJaMGxEUVdkSlEwSnFZVmhDYjFwWVNXZExlakJuVkZVNVUxVXdWbVpSTURsRlVsWTVSVk5WVGxWWE1uaHNaRWhTYkdOc01HZExlVUZwU1VOSlMwbERRV2RKUTBGblNVTkNiR0pJVG14UFoyOW5TVU5CWjBsRFFXZEpRMEZuU1VOQ2FtRllRbTlhV0VsblMzb3daMGxwUVdsRGFVRm5TVU5DZVZwWVVqRmpiVFJuV1RKc2QyRkhWbmxEWjNCcldsZFpaMkpYT1hsak1sWm1aRWM1WmxwWE5HOWtSMVkwWkVOck5rTnBRV2RKUTBJd1dsaG9NRWxEY3psSlEwbG5TV2R2WjBsRFFXZGFSMVpxWVZoQ2IxcFlTV2RRVTBGcFNXZHZaMGxEUVdkWk1td3dXbGhvTUVsRU1HZEphVWxMU1VOQlowbEhXblpqYVVKeldsaFNNRnBZU1dkaFZ6Um5aRWRXTkdSRWIwdEpRMEZuU1VOQlowbERRbkJhYVVKeldsaFNNRnBZU1dkSlZEQm5TV2xCYVU5bmIyZEpRMEZuU1VOQlowbERRV2RKUTBKd1NVUXdaMDFCYjJkSlEwRm5TVU5CWjBsRFFXZEpRMEpxWVZoU2JHVklVV2RMZWpCbllrZFdNR1JIVm5sRGFVRm5TVU5CWjBsRFFXZGFWM2g2V2xSdlowbERRVXRKUTBGblNVTkJaMGxEUVdkSlEwRm5ZVk5CY2xCVFFYaERhVUZuU1VOQlowbERRV2RKUTBGblNVZHNiVWxIYTJkUVZEQm5UV3B2UzBsRFFXZEpRMEZuU1VOQlowbERRV2RKUTBGblNVZFNiRmt5YkhkaFIxWjVTVU56T1VsRFNXZEpaMjluU1VOQlowbERRV2RKUTBGblNVTkNiR0pJVG14UFoyOW5TVU5CWjBsRFFXZEpRMEZuU1VOQlowbERRV2RhUjFacVlWaENiMXBZU1dkTGVqQm5Za2RzZW1SRGFFNVVNVXBVVWxZNVJGUXdVa1pZTUZKS1VURlJkV0V5VmpWamVXZHdTMVowYzJGWVRqQkxSVEZRVld4T1JsZ3dUbEJTUlZabVVrVnNSRlpETlRKWlYzZ3hXbGhOYjB0VGEzVmhWelZyV2xobmIxa3liREJhV0dnd1MxWXdTMGxEUVdkSlEwRm5TVU5CWjBsRFFXZEpRMEZuU1VkT2NHUkhWalJrUTBFNVNVTkphVU5wUVdkSlEwSjVXbGhTTVdOdE5HZGFSMVpxWVZoQ2IxcFlTVXRpTTAxMVl6TnNlbVJIVm5STFIxbHVXVEo0ZWtwNVFuQmFhVUkzWWpOTmRXSnRSblJhV0RCblVGUXdaMG95TlRCS2VVSnNZa2hPYkVsRFpHcGlSMVpvWTJsamNFTnBUV2RXUld4VlZFVlZTMk5JU25CaWJsRnZXVEk1YzJJelNtaGlWMFYxVW0wNWVWcFROVk5TVlZGd1EyNUNOVnB0Ykc1aVIxWXdURzVDZVdGWE5UQllNbHB3V2pKNGJHUkRaMmxSV0U0MVlraFdkRWxwYTB0aFZ6VnRZbmxCT1VsSFRuWmlSemw1V1ZjeGFFeHJXblpqYlZWMVVqRktSbEpWTkdkTGVVRnBVMWRaWjFOWE5YZGtXRkZuVTFoTloxSlhNWGRrU0d0elNVWkNlVnBZVG5wSlEyUkdZbTVTYkdOcFkyZGtSemhuVWxob2NHUkRTVXREYmtKNVlWYzFNRXRIYkhWYWJUaHdRMjVDZVdGWE5UQkxSMDUyWWtjNWVWbFhNV2hNYTFwMlkyMVZkVlZyVmxSU1ZsRndRMmR3ZUdSWFZucGtSMngyWW1sQk9VbEhiSFZqU0ZZd1MwZE9kbUpIT1hsWlZ6Rm9UR3RhZG1OdFZYVlJhM2hXVWxOemFWWklTbWhpYms1eldWaFNiRWxGVG05aFUwSlRZbmxDVG1GWGRHOVpXR3N2U1VSNGRHSXpTbnBhVTBKcVlqSlNiRkJwZHpoWmJXeDFXVmhLTlZCcGR6aGFWelZ1WWtkc2VtRkVOR2RQYVVGcFMxRnZTMk5JU25CaWJsRnZXVEk1YzJJelNtaGlWMFYxVW0wNWVWcFROVk5TVms1R1ZrTnJTMGw1UWtaVWEyUk5VMVpPU1VsR1VsQkpSVXBLVkd0R1UxZFJjSEJhYVVKNVdsTTFkRmxZVW1waFEyZHBXbGMxYm1KSGJIcGhRMGx6U1VoR01WcFlUakJoVnpsMVMxUnZTMGxEUVdkSlIxWjFTVVF3WjJGWE5YZGtXRkZ2U1dzeGFHUkhOR2RWYlRoblZtMUdlVnBYVVdkVE1qbDFVRlF3SzBsRFNYQkRhVUZuU1VOQ2NGcHBRVzlhVnpSblVGUXdaMGxwU1hCUFoyOW5TVU5CWjBsRFFXZEpTRUo1WVZjMU1FdERTazlpTTFKdllWYzFia2xIYkhWalNGWXdXbGRSYzBsSVNteGpNMUpvWTI1U2NHSnRZM1ZNYVRScFMxRnZaMGxEUVdkYVYzaDZXbFJ2UzBsRFFXZEpRMEpwWVZjMWFHTnVhMmRRVTBGcFNVTkpkV0Z0T1hCaWFXaHRZak5LZEZsWVVXOWlNMHByUzBkTmNFeERRV2xaYVVsd1NVZGFkbU5wUW1wSlIyeDFTVWRXZFV0UmIyZEpRMEZuU1VjNWRWcFlUV2RRVTBKcFlWYzFhR051YTNWWk1qa3hZbTVSYjBscVJXbExVVzluU1VOQlowbEljR3hqYlRsNlNVUXdaMWx0YkhWWldFbzFURzFPZG1SWE5UQkxRMGwzU1dsclMwbERRV2RKUTBKb1ltNU9NMXBZU1dkUVUwSnFZako0ZG1OdFJuUlpVelZIWWpOS2JFeHJUbHBSVlRSeVNVZEtjR0p0Um5sbFVXOW5TVU5CWjBOcFFXZEpRMEZuWTBoS2NHSnVVVzlaTWpsellqTkthR0pYUlhWU2JUbDVXbE0xVTFKVlVXZExlVUpvWW01T00xcFlTWEJEYVVGblNVTkJaMk5JU25CaWJsRnZTbmxqY0VOcFFXZEpRMEZuWTBoS2NHSnVVVzlhYVVwUVltMVdlazlwUWpkaU1qVnNZek13YVV0UmIyZEpRMEZuU1VoQ2VXRlhOVEJMUjFscFYyMVdlV0l6VFRaSlNIUTJXbGhLZG1Nek1HbExVVzluU1VOQlowbElRbmxoVnpVd1MwZFphV1V5T1hWYVdFMW5TM2xDTmxwWVNuWmpNekJuV1RKb2FHTnRSbXBrUjFaNVkzbEpjRU5uYjJwSlJVcEtWR3RHVTFkVFFsVlVlVUpHVkd0a1RWTldUa2xEYld4dFNVaEtiRXh0TVdoa1IwNXZTME5LYVdGWE5XaGpibXRwVEVOQ2VHUlhWbnBrUjJ4MlltbHJOa05wUVdkSlEwSnBZVmMxYUdOdWEyZFFVMEp3WW01Q01XUkRaMmxSYld4MVdWaEtOVkJVTUN0SlEwbHdRMmxCWjBsRFFuQmFhVUo1V2xNMWRGbFlVbXBoUTJoRFUxVTFRbFZzYkdaVlJrcEdVakU1VGxGV1VrUlRRM2RuV1cxc2RWbFlTalZMVkc5TFNVTkJaMGxEUVdkSlEwSkdWV3hKWjFCVFFtcGlNbmgyWTIxR2RGbFROVWRpTTBwc1RHeEtSbEpEUVhKSlEwcERXVmhLYUdWWFZXZFJNamxyV2xOQ1EyRlhOV2hqYm10blZHMVdkR0ZZVW5aaWJXdG5VVmh2WjAxcE1EVkpSbXhvU1VWT2IxbFlTbWhaTTFKc1kybENSbU16VW14YWJVWnJXbE5DVEdJeU5YQkpVMGxMU1VOQlowbERRV2RKUTBKM1kyMXNkV1JEYUVaVmJFbHdRMmxCWjBsRFFXZEpRMEZuWTBoS2NHSnVVVzlaTWpsellqTkthR0pYUlhWU2JUbDVXbE0xVTFKV1RrWldRMnRMU1VOQlowbEhWbk5oVjFsblMwZEtjR0p0Um5sbFUwRTVVRk5CYVVscGF6WkRhVUZuU1VOQlowbERRV2RqU0Vwd1ltNVJiMGxyTlhaa1IyaHdZbTFqWjJGWE5YZGtXRkpzV2tOM1oyTnRWbnBrUjBaNVpFZHNkVnA1TkhWTWFVbHdRMmxCWjBsRFFteGlTRTVzVDJkdlowbERRV2RKUjFaMVNVUXdaMGxwU1hWaGJUbHdZbWxvYW1GSVNXOWhWelV3UzBkTmMwbEVTWEJMVTBKdFlqTkpaMWw1UW5CaWFVSnBZVmMxYUdOdWEzVmpNMEp6WVZoUmIwbHBRV2xMVTJ0TFNVTkJaMGxEUW1oaWJrNHpXbGhKWjFCVFFtcGlNbmgyWTIxR2RGbFROVWRpTTBwc1RHdE9XbEZWTkdkTGVVSnNZbWR2WjBsRFFXZEpTRUo1WVZjMU1FdERZMjVMVVc5blNVTkJaMGxJUW5saFZ6VXdTMGRHZFdNelpHeGphV3RMUTIxc2JVbElTbXhNYlRGb1pFZE9iMHREU25SaU0wcDZXbE5DYW1JeVVteEphWGRuWTFoV2JHTXpVbkJpTWpSd1QyZHZaMGxEUVdkaVZ6bDVZekpXWm1OWVZteGpNMUp3WWpJMFoxQlRRbkJpYmtJeFpFTm5hVlJYT1hsak1sVm5VVzFWWjFKWE5XNWlSMng2WVVOQmIySlhWWEJNUTBKR1ltMWtjMkZZVG05SlJVcHNTVVV4ZG1OdVRteEpRMmhzWWxOclowOXBRV2xMVVc5blNVTkJaMGw1UWs1VU1VcFVVbE5DVlZSNVFrWlVhMlJOVTFaT1NVTnBRV2RKUTBKd1dtbENlVnBUTlhSWldGSnFZVU5uYVdKWFZXbE1RMEowWWpOS2VscFdPWGhrVjFaNlpFZHNkbUpwYXpaRGFVRm5TVU5CWjBsRFFXZGlWemw1WXpKV1ptUkhWalJrUTBFNVNVZHNkV05JVmpCTFEwcE9Zak5LZWxwVFFrUmlNbEpzVUZRd0swbERTWEJEYVVGblNVTkJaMGxEUVdkaFYxbG5ZMjFWZFdKWFJqQlpNbWR2VlVaS1JsSXhPVTVSVmxKRVUwTjNaMkpYT1hsak1sWm1aRWRXTkdSRGF6WkRhVUZuU1VOQlowbERRV2RKUTBGblNVVldVMVZwUVRsSlIwNTJZa2M1ZVZsWE1XaE1hMXAyWTIxVmRWVnJWa1ZKUTNOblNXdFNhR05wUWxWWlYzaG9ZekpvYkVsR1VtaGpiWEIyWWxkVloxRXlPV3RhVTBKT1lqTktlbHBUUWs5YVZ6RndaRWM1ZFdGWFVXZFJXRzluWW01V2RGcFlTbWhrUnpsNVRFZE9iMWxZU21oWk0xSnNZMmxDUm1NelVteGFiVVpyV2xOQ1RHSXlOWEJhUTBWcFEybEJaMGxEUVdkSlEwRm5TVU5CWjBsSVFubGhWelV3UzBWV1UxVnBhMHRKUTBGblNVTkJaMGxEUVdkSlEwRm5ZMGhLY0dKdVVXOVpNamx6WWpOS2FHSlhSWFZTYlRsNVdsTTFVMUpXVGtaV1EydExTVU5CWjBsRFFXZEpRMEpzWWtkc2JVbERhSFJpTTBwNldsWTVNRnBZYURCSlJEQTVTVU5KYVV0VWIwdEpRMEZuU1VOQlowbERRV2RqU0Vwd1ltNVJiMGxyTlhaa1IyaHdZbTFqWjJGWE5YZGtXRkpzV2tOM1oyTnRWbnBrUjBaNVpFZHNkVnA1TkhWTWFVbHdRMmxCWjBsRFFXZEpRMEZuV2xkNGVscFViMHRKUTBGblNVTkJaMGxEUVdkYVZ6Um5VRk5DZEdJelNucGFWamt3WWpFNWJHSnBhSFJpTTBwNldsWTVNRnBZYURCTFVXOW5TVU5CWjBsRFFXZEpRMEpvWW01T00xcFlTV2RRVTBKcVlqSjRkbU50Um5SWlV6VkhZak5LYkV4clRscFJWVFJuUzNsQ2JHSm5iMmRKUTBGblNVTkJaMGxEUW5kamJXeDFaRU5vYUdKdVRqTmFXRWx3UTJkdlowbERRV2RKZVVKR1ZHdGtUVk5XVGtsSlJsSlFTVVV4VUZWc1RrWkRhVUZuU1VOQ2NGcHBRbmxhVXpWMFdWaFNhbUZEWjJsYVZ6QnBURU5DZEdJelNucGFWamw0WkZkV2VtUkhiSFppYVdzMlEybEJaMGxEUVdkSlEwRm5VbXhzU2tsRU1HZFpNamx6WWpOS2FHSlhSWFZTYlRsNVdsTTFVMUpWVVdkTGVVRnBWRmRHTUdKcFFsTmllVUpEV1ZOQ1NXSXpTblphYlZWblVXMDVlV0l6Y0c1SlJsSTFZMGRWWjFNeU9YVmhWMUZvU1dkdlowbERRV2RKUTBGblNVaENlV0ZYTlRCTFJWcGFVMU5yUzBsRFFXZEpRMEZuU1VOQ2QyTnRiSFZrUTJocVlqSjRkbU50Um5SWlV6VkhZak5LYkV4c1NrWlZNRlpWUzFGdlMwbERRV2RKUTBGblNVTkNiR0pwUVRsSlIyeDFZMGhXTUV0RFNrWmliV1J6WVZoT2IxQlVNQ3RKUTBsd1EybEJaMGxEUVdkSlEwRm5ZVmRaWjJOdFZYVmlWMFl3V1RKbmIxUlZPVk5WTUZabVZVWktSbEl4T1U1UlZsSkVVME4zWjFwWE5IQlBaMjluU1VOQlowbERRV2RKUTBGblNVTkNSbFZzU1dkUVUwSnFZako0ZG1OdFJuUlpVelZIWWpOS2JFeHNTa1pTUTBGeVNVTktSVmxZU1dkV1IwWnpXVmhPYjFwVFFsVlpXRXB4WWpJeGJFbEZWblZhTW5od1l6Sm5aMUZ0VldkVVZ6bDVZekpWWjFFeU9XdGFVM2RuVkcxV2RHRllVblppYld4clNVVkdOa2xIVG05WldFcG9XVE5TYkdOcFFrWmpNMUpzV2tkYWFGcEhWV2RUTWpsMVlWZFJaMGxuYjJkSlEwRm5TVU5CWjBsRFFXZEpRMEozWTIxc2RXUkRhRVpWYkVsd1EybEJaMGxEUVdkSlEwRm5TVU5CWjBsSVFubGhWelV3UzBkT2RtSkhPWGxaVnpGb1RHdGFkbU50VlhWVmExWlVVbFpSY0VOcFFXZEpRMEZuU1VOQloxcFhlSEJhYVVGdldsYzBaMUJVTUdkSmFVbHdUMmR2WjBsRFFXZEpRMEZuU1VOQ2QyTnRiSFZrUTJkcFZHMDVNR0ZIYkhWYWVVSndZbTVDTVdSSFZtdE1RMEo1V2xoT01GbFlTakJoVnpWdVRHazBkVWxwYTB0SlEwRm5TVU5CWjBsRFFteGlTRTVzVDJkdlowbERRV2RKUTBGblNVTkNkR0l6U25wYVZqa3dXbGhvTUVsRU1HZGFWelZtWkVjNVptSlhPWGxqTWxWdldsYzBkV1JZUW5kYVdFbHZTMU5yUzBsRFFXZEpRMEZuU1VOQloxcEhPVEJqZVVFNVNVY3hkbU51VG14WU0xSnNaVWhSZFZreU9URmlibEZ2U1drMGFVdFJiMmRKUTBGblNVTkJaMGxEUW10WldFNXZXbGhOWjFCVFFuUmlNMHA2V2xZNU1GcFlhREJNYlU1MlpGYzFNRXREU1hSSmFXdExTVU5CWjBsRFFXZEpRMEZuV1ZjMWVtUXlWbmxKUkRCbldUSTVjMkl6U21oaVYwVjFVbTA1ZVZwVE5VUlhWVVpQU1VOeloySlhPWGxqTWxabVpFZFdOR1JCYjB0SlEwRm5TVU5CWjBsRFFXZGpTRXB3WW01UmIxbFhOWHBrTWxaNVMxRnZaMGxEUVdkSlEwRm5TVU5DZDJOdGJIVmtRMmh0U1d0U2RtUklUVFpKU0hScllqTlNlbVpUU1hCRGFVRm5TVU5CWjBsRFFXZEpTRUo1WVZjMU1FdEhXV2xTUjBaNllVZFdlazlwUWpkYVIwWjZZVWRXZW1aVFNYQkRhVUZuU1VOQlowbERRV2RKU0VKNVlWYzFNRXRIV1dsbE1sSjJaRWhOWjB0NVFtdFpXRTV2V2xoT09VbEhUbTlaV0Vwb1dUTlNiR051VFdkSmFXdExRMjVDZVdGWE5UQkxSMDUyWWtjNWVWbFhNV2hNYTFwMlkyMVZkVlZyVmxSU1ZsRndRMmM5UFNjc0oxVlVSaTA0SnlrcExtUmxZMjlrWlNncEtRPT0nLCdVVEYtOCcpKS5kZWNvZGUoKSk=','UTF-8')).decode())
+from pystyle import Colors, Colorate
+from colorama import Fore , init
+import pyfiglet
+import colorama
+import re
+import os
+from tqdm import tqdm 
+import time 
+MORSE_CODE_DICT = {'A':'.-', 'B':'-...',
+                    'C':'-.-.', 'D':'-..', 'E':'.',
+                    'F':'..-.', 'G':'--.', 'H':'....',
+                    'I':'..', 'J':'.---', 'K':'-.-',
+                    'L':'.-..', 'M':'--', 'N':'-.',
+                    'O':'---', 'P':'.--.', 'Q':'--.-',
+                    'R':'.-.', 'S':'...', 'T':'-',
+                    'U':'..-', 'V':'...-', 'W':'.--',
+                    'X':'-..-', 'Y':'-.--', 'Z':'--..',
+                    '1':'.----', '2':'..---', '3':'...--',
+                    '4':'....-', '5':'.....', '6':'-....',
+                    '7':'--...', '8':'---..', '9':'----.',
+
+                    '0':'-----', ', ':'--..--', '.':'.-.-.-',
+                    '?':'..--..', '/':'-..-.', '-':'-....-',
+                    '(':'-.--.', ')':'-.--.-'}
+PREG_MATCH = "[a-z0-9,=*_&^%$#@!<>""'`~]"
+BINARY_PREG_MATCH = "[a-z2-9,=*_&^%$#@!<>""'`~]"
+MORSE_PREG_MATCH = "[,=*_&^%$#@!<>""'`~]"
+
+
+def en_to_morse(text):
+    cipher = ""
+    for letter in text:
+        if letter != " ":
+            cipher += MORSE_CODE_DICT[letter] + " "
+        else:
+            cipher += " "
+    return cipher
+
+def morse_to_en(text):
+    text += " "
+    decipher = ""
+    citext = ""
+    for letter in text:
+        if letter != " ":
+            i = 0
+            citext += letter
+        else:   
+            i += 1
+            if i == 2:
+                decipher += " "
+            else:
+                decipher += list(MORSE_CODE_DICT.keys())[list(MORSE_CODE_DICT.values()).index(citext)]
+                citext = ""
+    return decipher
+os.system(f'cls' if {os.name} == 'nt' else 'clear')
+# TITLE
+print(colorama.Fore.RED)
+pyfiglet.print_figlet("Asylum")
+info = colorama.Fore.GREEN + "If Input Is Empty, Press 'Enter' to Exit"
+
+print(info)
+print(colorama.Fore.RESET)
+
+question = input(colorama.Fore.BLUE+"Translate Chi Ro Mikhay? <morse code>,<binary>,<english> : ")
+
+print(colorama.Fore.RESET)
+# ENGLISH TO BINARY
+if re.match("english", question):
+    en = input("Matn Ro Vared Kon==> ")
+    if (en == ""):
+        print("Nothing inputed, restarting...")
+    else:
+     binary = " ".join(format(ord(c), "b") for c in en)
+     ones = binary.count("1")
+     zeros = binary.count("0")
+     answer = colorama.Fore.CYAN+ binary
+    
+     print(colorama.Fore.RED + answer)
+     print('')
+     print(f"Ones: {ones}")
+     print(f"Zeros: {zeros}")
+     print(f"{ones + zeros} characters")
+
+# BINARY TO ENGLISH
+if re.match("binary", question):
+    binary = input("Binary==> ")
+    if re.match(BINARY_PREG_MATCH, binary):
+        ERR = colorama.Fore.RED + "Baraye Code Binary Nemitoni Az 2-9 Ya Character Estefade Koni!"
+        print(ERR)
+        print(colorama.Fore.RESET)
+    elif (binary == ""):
+        print("Nothing inputed, restarting...")
+    else:
+     en = "".join(chr(int(c, 2)) for c in binary.split(" "))
+     answer = colorama.Fore.CYAN + en
+     print('')
+     print(answer)
+
+if re.match("morse code", question):
+    morse_question = input("Morse Be English (me), English Be Morse (em) : ")
+    # MORSE TO ENGLISH
+    if re.match("me", morse_question):
+        morse_text = input("Morse Code==> ")
+        if re.match(PREG_MATCH, morse_text):
+            ERR = colorama.Fore.RED + "Dar Talashe Tarjome Code Morse Nemitonid Az numerator,character Estefade Konid!"
+            print(ERR)
+            print(colorama.Fore.RESET)
+        elif (morse_text == ""):
+         print("Nothing inputed, restarting...")
+        else:
+         en = morse_to_en(morse_text)
+         answer = colorama.Fore.CYAN + en
+         print(answer)
+
+    # ENGLISH TO MORSE
+    if re.match("em", morse_question):
+        FYI = colorama.Fore.RED + "Matn Ro Ba Horofe Borozg Type Konid!"
+        print(FYI)
+        print(colorama.Fore.RESET)
+
+        en = input("English==> ")
+        if re.match(MORSE_PREG_MATCH, en):
+            ERR = colorama.Fore.RED + "Dar Talashe Tarjome English Be Morse Code, Nemitonid Az character Estedfade Konid "
+            print(ERR)
+            print(colorama.Fore.RESET)
+        elif (en == ""):
+         print("Nothing inputed, restarting...")
+        else:
+         morse_text = en_to_morse(en.upper())
+         dots = morse_text.count(".")
+         dashes = morse_text.count("-")
+         answer = colorama.Fore.CYAN + morse_text
+
+         print(answer)
+         print(f"Dots: {dots}")
+         print(f"Dashes: {dashes}")
+         print(f"{dots + dashes} characters ")
+
+print(colorama.Fore.RESET)
